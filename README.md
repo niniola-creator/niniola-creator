@@ -5,7 +5,7 @@
 
 Hi, I’m Hannah Niniola. I'm a self-taught data analyst, front-end developer and geoscientist by training. Yes, I studied geology in school and along the way I discovered a genuine interest in tech and data.
 
-My path into tech has been hands-on and curiosity-driven. I’ve taught myself tools like Python, Excel, SQL and JavaScript, and I’m always looking for practical ways to apply what I learn. These days, I enjoy working with numbers (datasets), creating visually appealing dashboards that reveal the stories behind these numbers and spotting trends which will help make better decisions, alongside building clean and responsive web interfaces. 
+My path into tech has been hands-on and curiosity-driven. I’ve taught myself tools like Python, Excel, SQL and JavaScript, and I’m always looking for practical ways to apply what I learn. These days, I enjoy working with numbers (datasets), creating visually appealing dashboards that reveal the stories behind these numbers and spotting trends to help make better decisions, and building clean and responsive web interfaces. 
 
 
 <h2>Projects</h2>
@@ -30,6 +30,6 @@ My path into tech has been hands-on and curiosity-driven. I’ve taught myself t
 
 <h5>Resume/CV</h5>
 
-You can view my CV <a href = "https://github.com/niniola-creator/niniola-creator/blob/main/Hannah_Niniola's_CV.pdf">here</a>
+You can view my CV <a href = "https://drive.google.com/file/d/176hNE9Ms-Wlfo8h60bnIVqcchc071tXE/view">here</a>
 
 

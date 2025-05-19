@@ -7,7 +7,7 @@
 
 Hi, my name is Hannah. I'm a self-taught data analyst, front-end developer and geoscientist by training. Yes, I studied geology in school and along the way I discovered a genuine interest in tech and data.
 
-My path into tech has been hands-on and curiosity-driven. I’ve taught myself tools like Python, Excel, SQL and JavaScript, and I’m always looking for practical ways to apply what I learn. These days, I enjoy working with numbers (datasets), creating visually appealing dashboards that reveal the stories behind these numbers and spotting trends to help make better decisions, and building clean and responsive web interfaces. 
+My path into tech has been hands-on and curiosity-driven. I’ve taught myself tools like Python, Excel, SQL and JavaScript, and I’m always looking for practical ways to apply what I learn. These days, I enjoy working with numbers (datasets), creating visually appealing dashboards that reveal the stories behind these numbers and spotting trends to help make better decisions. I also love building clean and responsive web interfaces. 
 
 
 # Projects

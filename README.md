@@ -1,6 +1,6 @@
 ---
 
-<img src = "https://github.com/niniola-creator/niniola-creator/blob/main/my_banner.png?raw=true" alt ="Hannah's Banner" width = "100%">
+<img src="https://i.ibb.co/27xzTNNf/my-banner.png" alt="my-banner" alt ="Hannah's Banner" width = "100%">
 
 
 ## About Me
@@ -12,9 +12,11 @@ My path into tech has been hands-on and curiosity-driven. I’ve taught myself t
 
 ## Projects
 
-**Air Quality Analysis of Particulate Matter (PM<sub>10</sub>)**
+### Air Quality Analysis of Particulate Matter (PM<sub>10</sub>)
 
-**Frontend Mentor - Snap**
+### [Frontend Mentor - Snap](https://github.com/niniola-creator/niniola-creator.github.io)
+
+A responsive webpage built as part of the Frontend Mentor Challenge. This project focuses on layout, typography and responsive design using HTML, CSS and JavaScript
 
 ## Skills
 

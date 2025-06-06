@@ -12,15 +12,15 @@ My path into tech has been hands-on and curiosity-driven. I’ve taught myself t
 
 ## Projects
 
-### Air Quality Analysis of Particulate Matter (PM<sub>10</sub>)
+### [Air Quality Analysis of Particulate Matter (PM<sub>10</sub>)](https://github.com/niniola-creator/air_quality_analysis)
 
 This project analyzes the air quality in Badagry, Southwest Nigeria, by examining PM₁₀ particle composition collected using SEM-EDX. Using Python and pandas, I further analyzed the geochemical structure of the air in different sample areas (market, residential, and traffic zones), with the aim of identifying pollution patterns and public health risks.
 
 ## Skills
-- Data Cleaning, Data Analysis, Visualization, Exploratory Data Analysis.
+Data Cleaning, Data Analysis, Visualization, Exploratory Data Analysis.
   
 ## Tools
-- Python, Pandas, Mattplotlib, Seaborn.
+Python, Pandas, Matplotlib, Seaborn.
   
 
 ### [Frontend Mentor - Snap](https://github.com/niniola-creator/niniola-creator.github.io)

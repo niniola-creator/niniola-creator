@@ -14,7 +14,7 @@ My path into tech has been hands-on and curiosity-driven. I’ve taught myself t
 
 ### [Air Quality Analysis of Particulate Matter (PM<sub>10</sub>)](https://github.com/niniola-creator/air_quality_analysis)
 
-This project analyzes the air quality in Badagry, Southwest Nigeria, by examining PM₁₀ particles. Using Python and pandas, I performed a geochemical assessment of air samples from market, residential and traffic zones to identify pollution patterns and public health risks. The findings were visualized using matplotlib and seaborn to highlight element concentrations, correlations and location-specific pollution trends.
+This project analyzes the air quality in Badagry, Southwest Nigeria, by examining PM₁₀ particles. Using Python and pandas, I performed a geochemical assessment of particulate samples from market, residential and traffic zones to identify pollution patterns and public health risks. The findings were visualized using matplotlib and seaborn to highlight element concentrations, correlations and location-specific pollution trends.
   
 
 ### [Frontend Mentor - Snap](https://github.com/niniola-creator/niniola-creator.github.io)
